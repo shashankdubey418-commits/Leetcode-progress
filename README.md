@@ -16,4 +16,8 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

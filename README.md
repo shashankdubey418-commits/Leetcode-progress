@@ -16,6 +16,7 @@ This is my leetcode progress repo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
@@ -25,8 +26,17 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ This is my leetcode progress repo
 | [0001-two-sum](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This is my leetcode progress repo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |

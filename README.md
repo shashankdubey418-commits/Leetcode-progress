@@ -10,6 +10,7 @@ This is my leetcode progress repo
 | [0014-longest-common-prefix](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
+| [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -53,5 +54,10 @@ This is my leetcode progress repo
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

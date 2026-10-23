@@ -7,6 +7,7 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
@@ -60,4 +61,12 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ This is my leetcode progress repo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0049-group-anagrams) |
 ## Hash Table
@@ -27,6 +28,7 @@ This is my leetcode progress repo
 | [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This is my leetcode progress repo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -77,4 +80,12 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

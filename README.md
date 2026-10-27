@@ -31,6 +31,7 @@ This is my leetcode progress repo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ This is my leetcode progress repo
 | ------- |
 | [0047-permutations-ii](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +111,9 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

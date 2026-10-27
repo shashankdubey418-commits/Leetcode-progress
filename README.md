@@ -43,6 +43,7 @@ This is my leetcode progress repo
 | [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
@@ -53,6 +54,7 @@ This is my leetcode progress repo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
@@ -90,6 +92,7 @@ This is my leetcode progress repo
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -116,4 +119,8 @@ This is my leetcode progress repo
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shashankdubey418-commits/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
